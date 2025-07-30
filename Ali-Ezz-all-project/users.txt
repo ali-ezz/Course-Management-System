@@ -1,0 +1,3 @@
+STUDENT	Alice Smith	student@coursemanagement.com	a3c7e93f-4f19-4f41-939d-b680e9bcbb79
+INSTRUCTOR	John Doe	instructor@coursemanagement.com	083b5eb7-f863-48cd-b59d-0c178baccb90
+ADMIN	System Administrator	admin@coursemanagement.com	ceaff6c4-6586-4f34-91fb-433d58b09ed9

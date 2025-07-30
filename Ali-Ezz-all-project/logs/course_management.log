@@ -1,0 +1,274 @@
+May 03, 2025 9:35:39 PM com.coursemanagement.LoggingUtil logError
+SEVERE: Login Failed: Please check your email and password.
+May 03, 2025 9:38:42 PM com.coursemanagement.LoggingUtil logError
+SEVERE: Login Failed: Please check your email and password.
+May 03, 2025 9:42:06 PM com.coursemanagement.LoggingUtil logError
+SEVERE: Login Failed: Please check your email and password.
+May 03, 2025 9:42:26 PM com.coursemanagement.LoggingUtil logError
+SEVERE: Login Failed: Please check your email and password.
+May 03, 2025 9:43:11 PM com.coursemanagement.LoggingUtil logError
+SEVERE: Login Failed: Please check your email and password.
+May 16, 2025 4:44:19 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 0
+May 16, 2025 4:44:19 AM com.coursemanagement.LoggingUtil logInfo
+INFO: System started and courses loaded.
+May 16, 2025 4:44:59 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login successful: student@coursemanagement.com
+May 16, 2025 4:45:25 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Student logged out.
+May 16, 2025 4:45:37 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login successful: instructor@coursemanagement.com
+May 16, 2025 4:45:48 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 4:45:59 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login successful: admin@coursemanagement.com
+May 16, 2025 4:46:04 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded from file: 3
+May 16, 2025 4:46:07 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin opened Reports panel.
+May 16, 2025 4:46:11 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin opened Assign Instructors panel.
+May 16, 2025 4:46:15 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin logged out.
+May 16, 2025 4:49:29 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 0
+May 16, 2025 4:49:29 AM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 4:49:58 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: admin@coursemanagement.com
+May 16, 2025 4:50:03 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 4:50:12 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin logged out.
+May 16, 2025 4:50:26 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 5:05:22 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 0
+May 16, 2025 5:05:22 AM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 5:05:41 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: admin@coursemanagement.com
+May 16, 2025 5:05:45 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 5:05:50 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 5:06:04 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin logged out.
+May 16, 2025 5:06:15 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 5:06:31 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 5:46:40 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 0
+May 16, 2025 5:46:40 AM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 6:17:20 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 0
+May 16, 2025 6:17:20 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 6:18:10 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: admin@coursemanagement.com
+May 16, 2025 6:18:20 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses saved to file. Total: 1
+May 16, 2025 6:18:20 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Course added: 1
+May 16, 2025 6:18:29 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses saved to file. Total: 1
+May 16, 2025 6:18:29 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Course updated: 1
+May 16, 2025 6:18:33 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:37 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:18:57 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:19:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin logged out.
+May 16, 2025 6:19:29 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 6:20:18 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 6:20:38 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 6:21:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Student logged out.
+May 16, 2025 6:21:23 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 6:21:27 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:21:41 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:21:44 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:21:58 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 6:22:03 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 6:22:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 7:34:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 7:34:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 7:34:50 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: admin@coursemanagement.com
+May 16, 2025 7:34:57 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:04 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:04 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:04 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:35:11 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:50:07 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 7:50:07 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 7:50:29 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 7:50:37 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:50:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:50:56 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 7:51:38 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 7:51:42 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 7:51:45 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 7:51:56 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 8:09:50 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 8:09:50 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 8:12:18 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 8:12:18 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 8:12:37 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 8:12:54 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 8:12:59 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 8:19:58 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 8:19:58 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 8:20:38 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 8:21:00 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Users loaded: 3
+May 16, 2025 8:21:15 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 8:21:26 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 8:32:35 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 8:32:35 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 9:06:29 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 9:06:30 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 9:06:47 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 9:07:08 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Student logged out.
+May 16, 2025 9:07:20 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 9:07:57 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 9:08:08 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 9:12:03 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Student logged out.
+May 16, 2025 9:16:23 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 9:16:23 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 9:16:40 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 9:16:50 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Student logged out.
+May 16, 2025 9:17:33 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: instructor@coursemanagement.com
+May 16, 2025 9:17:51 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Instructor logged out.
+May 16, 2025 9:17:57 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: student@coursemanagement.com
+May 16, 2025 9:18:05 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Student logged out.
+May 16, 2025 9:46:08 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 9:46:08 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/CourseManagementSystemAhmedAboBaker 4/./logs/course_management.log
+May 16, 2025 9:47:04 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: admin@coursemanagement.com
+May 16, 2025 9:48:59 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin logged out.
+May 16, 2025 9:50:42 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 9:50:42 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./logs/course_management.log
+May 16, 2025 9:58:33 PM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 16, 2025 9:58:33 PM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./logs/course_management.log
+May 17, 2025 8:26:46 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 17, 2025 8:26:46 AM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./logs/course_management.log
+May 17, 2025 9:16:07 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses loaded from file: 1
+May 17, 2025 9:16:07 AM com.coursemanagement.LoggingUtil logInfo
+INFO: System started. Files used: courses=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./courses.ser, users=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./users.ser, logs=/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/college/سنه ثانيه/|سيمستر (2)|/برمجه المتقدمه 👨🏾‍💻/Ali-Ezz-all-project/./logs/course_management.log
+May 17, 2025 9:35:47 AM com.coursemanagement.LoggingUtil logWarning
+WARNING: Login failed: toqa
+May 17, 2025 9:36:21 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Login success: admin@coursemanagement.com
+May 17, 2025 9:36:42 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses saved to file. Total: 2
+May 17, 2025 9:36:42 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Course added: 3
+May 17, 2025 9:36:55 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses saved to file. Total: 2
+May 17, 2025 9:36:55 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Course updated: 4
+May 17, 2025 9:36:59 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Courses saved to file. Total: 1
+May 17, 2025 9:36:59 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Course deleted: 4
+May 17, 2025 10:05:41 AM com.coursemanagement.LoggingUtil logInfo
+INFO: Admin logged out.
